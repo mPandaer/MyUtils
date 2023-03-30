@@ -1,0 +1,6 @@
+
+# 集成信息
+TOKEN = "secret_4yG46qJKg2Sd21HBrdy7XmlbXHMzoYwrdW9blTPnqxH"
+
+# DATABASES
+DATABASE_ID = "68901e3a352a408c916c1dc6a2098f34"

@@ -15,6 +15,7 @@ def rename(path, src_name=None, new_name=None):
 
 
 if __name__ == '__main__':
-    url = "E:\\doc\\030-MySQL实战45讲"
+    # url = "E:\\doc\\030-MySQL实战45讲"
+    url = "/Users/mac/Documents"
     rename(url, src_name="【海量资源：666java.com】", new_name="")
 
